@@ -10,8 +10,8 @@
                 <img src="/wizytówka.jpg" alt="">
                 <vs-row justify="center">
                     <vs-col w="3"><a href="https://www.google.com/maps/place/RADEC24+us%C5%82ugi+remontowe,+wyko%C5%84czenia+wn%C4%99trz,+Inowroc%C5%82aw/@52.430884,15.8069981,7.21z/data=!4m5!3m4!1s0x470350898bd704dd:0xe8d349a8766307bf!8m2!3d52.4423934!4d17.7704057?hl=pl-PL" target="_blank"><i class='bx bxs-map bx-md'></i> <h4>Ludzisko 56,<br> 88-160 Janikowo</h4></a></vs-col>
-                    <vs-col w="3"><a href="tel: 737444950" target="_blank"><i class='bx bxs-phone bx-md' ></i> <h4>+48 737 444 950</h4></a></vs-col>
-                    <vs-col w="3"><a href="mailto: radec24@wp.pl" target="_blank"><i class='bx bxs-envelope-open bx-md'></i> <h4>radec24@wp.pl</h4></a></vs-col>
+                    <vs-col w="3"><a href="tel:737444950" target="_blank"><i class='bx bxs-phone bx-md' ></i> <h4>+48 737 444 950</h4></a></vs-col>
+                    <vs-col w="3"><a href="mailto:radec24@wp.pl" target="_blank"><i class='bx bxs-envelope-open bx-md'></i> <h4>radec24@wp.pl</h4></a></vs-col>
                 </vs-row>
                 <div>
                     <p>
