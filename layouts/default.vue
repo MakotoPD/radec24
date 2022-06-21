@@ -39,9 +39,6 @@
           </template>
         </vs-navbar-group>
 
-        <vs-navbar-item href="http://www.dev-bud.pl/" blank>
-            Budowa domów
-        </vs-navbar-item>
 
         <template #right>
             <vs-button @click="activeSidebar = !activeSidebar" flat icon>
@@ -122,12 +119,6 @@
             Youtube
           </vs-sidebar-item>
         </vs-sidebar-group>
-        <vs-sidebar-item href="http://www.dev-bud.pl/" blank>
-          <template #icon>
-            <i class='bx bxs-home'></i>
-          </template>
-          Budowa domów
-        </vs-sidebar-item>
 
       </vs-sidebar>
 

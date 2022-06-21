@@ -8,7 +8,7 @@
     <div id="onas" class="h90">
        <vs-row justify="center">
         <vs-col class="auto-cont" w="5">
-          <img class="auto" src="/bg/auto.jpg" alt="">
+          <img class="auto" src="/bg/auto.jpeg" alt="">
         </vs-col>
         <vs-col w="5">
           <h1>Moje usługi:</h1>
@@ -147,7 +147,7 @@ export default {
           .auto{
             width: 400px;
             border-radius: 25px;
-            box-shadow: 0 10px 40px -5px rgba(0, 162, 255, 0.733);
+            box-shadow: 0 10px 40px -5px rgba(255, 0, 0, 0.733);
           }
         }
       }
@@ -225,7 +225,7 @@ export default {
           .auto{
             width: 400px;
             border-radius: 25px;
-            box-shadow: 0 10px 40px -5px rgba(0, 162, 255, 0.733);
+            box-shadow: 0 10px 40px -5px rgba(255, 0, 0, 0.733);
           }
         }
       }
@@ -265,7 +265,7 @@ export default {
           .auto{
             width: 400px;
             border-radius: 25px;
-            box-shadow: 0 10px 40px -5px rgba(0, 162, 255, 0.733);
+            box-shadow: 0 10px 40px -5px rgba(255, 0, 0, 0.733);
           }
         }
       }
