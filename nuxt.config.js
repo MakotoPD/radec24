@@ -4,14 +4,14 @@ export default {
     htmlAttrs: {
       lang: 'pl_PL'
     },
-    title: 'RADEC24 - Remonty i wykończenia wnętrz',
+    title: 'RADEC24 - Produkcja domów modułowych. FASTHOME.com.pl',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'description', content: 'RADEC24 - remonty i wykończenia. tel.737444950  email:radec24@wp.pl' },
-      { name: 'og:description', content: 'RADEC24 - remonty i wykończenia. tel.737444950  email:radec24@wp.pl' },
+      { name: 'description', content: 'RADEC24 - Produkcja domów modułowych. FASTHOME.com.pl' },
+      { name: 'og:description', content: 'RADEC24 - Produkcja domów modułowych. FASTHOME.com.pl' },
       { property: 'og:locale', content: 'pl_PL'},
-      { property: 'og:title', content: 'Radec24 - Remonty i wykończenia'},
+      { property: 'og:title', content: 'Radec24 - Produkcja domów modułowych. FASTHOME.com.pl'},
       { property: 'og:type', content: 'website'},
       { property: 'og:image', content: 'https://radec24.vercel.app/thumbnail.jpg'}
     ],
